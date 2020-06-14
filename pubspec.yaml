@@ -1,0 +1,4 @@
+name: role_bot
+dependencies:
+  nyxx: 0.30.0
+  dotenv: 2.0.0
